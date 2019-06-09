@@ -1,0 +1,32 @@
+﻿{
+	"version": 1560092841,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/noway-sheet0.png",
+		"images/noway-sheet1.png",
+		"images/noway-sheet2.png",
+		"images/noways-sheet0.png",
+		"images/nowaytext-sheet0.png",
+		"images/clouds2-sheet0.png",
+		"images/sonic_series_logo-sheet0.png",
+		"images/angelisland-sheet0.png",
+		"images/water-sheet0.png",
+		"images/demoeggbase-sheet0.png",
+		"images/satamsonic-sheet0.png",
+		"images/satamsonic-sheet1.png",
+		"images/satamsonic-sheet2.png",
+		"images/robuttnik-sheet0.png",
+		"images/camera-sheet0.png",
+		"media/sonic - tale of the emeralds ost - 017 - green and grassy.ogg",
+		"media/sonic 3 - no way! (sonic 2 remix).ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
